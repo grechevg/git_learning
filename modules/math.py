@@ -4,4 +4,4 @@ def abb(a: int, b: int) -> int:
 
 
 if __name__ == '__main__':
-    print(abb(2, 4))
+    print(abb(2, 6))
